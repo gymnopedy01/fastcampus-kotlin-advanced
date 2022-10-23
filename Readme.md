@@ -1,5 +1,3 @@
-[어디 가서 코프링 매우 알은 체하기! : 9월 우아한테크세미나]|(https://www.youtube.com/watch?v=ewBri47JWII&)
-[코틀린-Jackson]|(https://hyg4196.tistory.com/48)
 
 1. 컬렉션타입
 - 코틀린 표준 라이브러리는 기본 컬렉션 타입인 List, Set Map을 제공한다
@@ -64,3 +62,7 @@
     }
   }
 ```
+
+
+- [어디 가서 코프링 매우 알은 체하기! : 9월 우아한테크세미나]|(https://www.youtube.com/watch?v=ewBri47JWII&)
+- [코틀린-Jackson]|(https://hyg4196.tistory.com/48)
