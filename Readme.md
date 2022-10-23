@@ -1,3 +1,17 @@
+introduce {
+  name("오태현")
+  company("엔씨소프트")
+  skills {
+    soft("A passion for poblem solving")
+    soft("Good commnuication skills")
+    hard("Kotlin")
+  }
+  language {
+    "Korean" level 5
+    "English" level 3
+  }
+}
+
 
 1. 컬렉션타입
 - 코틀린 표준 라이브러리는 기본 컬렉션 타입인 List, Set Map을 제공한다
