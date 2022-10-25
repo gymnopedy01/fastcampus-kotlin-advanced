@@ -1,3 +1,4 @@
+```kotlin
 introduce {
   name("오태현")
   company("엔씨소프트")
@@ -11,6 +12,7 @@ introduce {
     "English" level 3
   }
 }
+```
 
 
 1. 컬렉션타입
